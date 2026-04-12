@@ -1,12 +1,14 @@
 My PDF Analyzer will take in a pdf from the user and provide key information about the pdf. 
 
 Week 1
+
   This week I set up the basic user interface with spaces to display information about the pdf.
   I created a search pdf function where the user can search for a pdf on their computer for the program to read.
   There is an error function so if a pdf is not selected the program will ask for one.
   There is an "exit" button so the user can exit the program at any time.
 
 Week 2
+
   This week I created functions to get information from the selcted pdf.
   The functions I created are get_title, get_word_count, get_key_topics, get_key_names and get_reading_level.
   Title is found through a library called PDFReader which can takes in a pdf and produce the title.
