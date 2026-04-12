@@ -7,8 +7,9 @@ Week 1
   There is an "exit" button so the user can exit the program at any time.
 
 Week 2
-  This week I created classes to get information from the selcted pdf.
-  The classes I created are get_word_count, get_key_topics, get_key_names and get_reading_level.
+  This week I created functions to get information from the selcted pdf.
+  The functions I created are get_title, get_word_count, get_key_topics, get_key_names and get_reading_level.
+  Title is found through a library called PDFReader which can takes in a pdf and produce the title.
   Word count is found by breaking down the pdf into a list of words which the program counts.
   Key names are found through a library called "spacy" which has a function that recognizes names from a list of words.
   Reading level is found by taking the longest word in the pdf and comparing it to adverage reading levels.
