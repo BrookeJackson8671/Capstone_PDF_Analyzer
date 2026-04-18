@@ -17,3 +17,12 @@ Week 2
   Reading level is found by taking the longest word in the pdf and comparing it to adverage reading levels.
   Key topics was found by taking a list of words from the pdf and filtering out stopwords and names. It then finds which words are most commonly used.
   Key topics is not perfect and is most effective when an article is read instead of a fictional book.
+
+Week 3
+
+  This week I created a serach function so the user can search their pdf for certain words.
+  I added a search bar with a button for th user to input their search word.
+  I displayed the results of the search and how often the word appears in the pdf.
+  I added a border around the diaplayed results and the previous displayed text.
+  I also centered the results and the title.
+  I increased the size of the title so it's displayed clearly at the top of the page.
